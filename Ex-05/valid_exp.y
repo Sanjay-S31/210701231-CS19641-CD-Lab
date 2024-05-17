@@ -28,7 +28,7 @@ E:E'+'E
 
 void main()
 { 
-   printf("256 - Sreena\n");
+   printf("231 - Sanjay\n");
    printf("\nEnter Any Arithmetic Expression :\n");
    yyparse();
 }
