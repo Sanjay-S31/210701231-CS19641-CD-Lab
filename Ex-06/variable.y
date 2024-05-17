@@ -17,7 +17,7 @@ int yyerror()
     return 0;
 }
 int main() {
-    printf("256 - Sreena\n");
+    printf("231 - Sanjay\n");
     printf("\nEnter a name to test for an identifier: ");
     yyparse();
     if(valid) {
