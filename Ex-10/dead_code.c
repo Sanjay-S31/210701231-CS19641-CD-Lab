@@ -8,9 +8,8 @@ struct op {
 
 void main() {
     int a, i, k, j, n, z = 0, m, q;
-    char *p, *l;
+    char *p, *l, *tem;
     char temp, t;
-    char *tem;
 
     printf("Enter number of values: ");
     scanf("%d", &n);
